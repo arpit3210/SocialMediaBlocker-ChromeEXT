@@ -5,6 +5,7 @@ window.FontAwesomeCdnConfig = {
   asyncLoading: {
     enabled: false
   },
+  
   reporting: {
     enabled: false
   },
